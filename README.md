@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I am Tanvi Rana!
 
-<!--
-**ranaatanvii082-collab/ranaatanvii082-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- BCA (AI & Data Science) Student at K.R. Mangalam University, Gurugram.
+- Currently learning Python, HTML and CSS.
+- Interested in Artificial Intelligence, Data Science and Web Development.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+|---|---|
+| Languages | Python, HTML, CSS |
+| Tools | Git, GitHub, VS Code |
+| Concepts | Programming Fundamentals, Web Development |
+
+## Featured Projects
+- Movie Webpage – A basic HTML project featuring movie information.
+- Data Cleaning Toolkit - python based data cleaning project.
+## Currently Working On
+- Semester 1 lab projects.
+- Improving my Python programming skills.
+- Learning web development.
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/tanvi-rana-833275432
+- Email: 2601060007@krmu.edu.in
